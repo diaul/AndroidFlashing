@@ -2,8 +2,8 @@
 Commands usefull fo flash Android Pixel Phones
 
 ## Downloads
-Android Pixel Images https://developers.google.com/android/images 
-Android Platform Tools (e.g. adb, fastboot) https://developer.android.com/studio/releases/platform-tools 
+- Android Pixel Images https://developers.google.com/android/images 
+- Android Platform Tools (e.g. adb, fastboot) https://developer.android.com/studio/releases/platform-tools 
 
 ## Commands
 ```
