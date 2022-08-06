@@ -1,5 +1,5 @@
 # AndroidFlashing
-Commands usefull fo flash Android Pixel Phones
+Commands usefull fo flash Android Pixel Phones for people with bad memory like me.
 
 ## Downloads
 - Android Pixel Images https://developers.google.com/android/images 
